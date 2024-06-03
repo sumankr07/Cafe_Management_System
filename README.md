@@ -2,6 +2,8 @@
 # Cafe Management System
 
 This project is a comprehensive CLI (Command Line Interface) application designed to manage a database of customers, products, and cafe orders. The application provides functionalities for adding, updating, and viewing data, as well as exporting data to Excel files. The project is built using Python and MySQL, and it leverages the pandas library for data manipulation and export.
+## Run Code in Google Colab
+[cafe_management_system](https://colab.research.google.com/github/sumankr07/Cafe_Management_System/blob/main/cafe_management_system.ipynb)
 
 ## Features
 #### 1. Customer Management
