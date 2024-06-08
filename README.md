@@ -76,7 +76,7 @@ You need to have MySQL Server installed on your system. You can download and ins
 Open your terminal or command prompt and run the following commands to install the required Python packages:
 
 ```bash
-  pip install mysql-connector-python pandas openpyxl
+  pip install mysql-connector-python pandas
 ```
 
 #### 4. Set Up MySQL Database:
